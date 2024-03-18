@@ -12,10 +12,24 @@ At the moment, I am transitioning into Web Development.
 |databases|MySQL, PostgreSQL, SQLite, Firestore, ODBC|
 |devtools|Git, GitHub, Linux, VS Code, Vim|
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+</a>
+
+[![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheUltimateOptimist&show_icons=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheUltimateOptimist&layout=compact&langs_count=10&hide=CMake,TeX,c%2B%2B,Swift&exclude_repo=TheUltimateOptimist,studium,TheUltimateOptimist.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheUltimateOptimist&repo=config)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## Notable Projects
 |name|description|technologies|
 |------------|----|-----------|
 |[responsiveness](https://github.com/TheUltimateOptimist/responsiveness)|A set of Flutter widgets that makes creating responsive ui easy|Dart & Flutter|
+|[excel_framework](https://github.com/TheUltimateOptimist/excel_framework)|A framework for creating excel files declaratively using Python|Python|
+|[parser](https://github.com/TheUltimateOptimist/parser)|A command-line option/args parser for easily building command-line applications in Rust|Rust|
+|
 
 <!--
 **TheUltimateOptimist/TheUltimateOptimist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
