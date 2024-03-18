@@ -12,8 +12,8 @@ At the moment, I am transitioning into Web Development.
 |databases|MySQL, PostgreSQL, SQLite, Firestore, ODBC|
 |devtools|Git, GitHub, Linux, VS Code, Vim|
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheUltimateOptimist&layout=compact&langs_count=11&theme=radical&hide=CMake,TeX,c%2B%2B,Swift&exclude_repo=TheUltimateOptimist,studium,TheUltimateOptimist.github.io)](https://github.com/anuraghazra/github-readme-stats)
-[![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheUltimateOptimist&show_icons=true&hide_rank=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheUltimateOptimist&layout=compact&langs_count=11&theme=radical&hide=CMake,TeX,c%2B%2B,Swift&exclude_repo=TheUltimateOptimist,studium,TheUltimateOptimist.github.io)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheUltimateOptimist&show_icons=true&hide_rank=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) 
 
 
 ## Notable Projects
